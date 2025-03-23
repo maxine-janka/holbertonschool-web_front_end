@@ -1,0 +1,1 @@
+This projects contains tasks for Advanced HTML. For Holberton School Australia. By Maxine Janka
