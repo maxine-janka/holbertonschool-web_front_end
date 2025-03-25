@@ -1,0 +1,1 @@
+This projects contains tasks for Advanced CSS. For Holberton School Australia. By Maxine Janka
