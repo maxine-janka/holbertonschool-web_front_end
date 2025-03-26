@@ -440,12 +440,14 @@ a:active {
     font-size: var(--button-font-size);
     color: var(--button-color);
     text-decoration: var(--button-text-decoration);
+    transition: var()
 }
 .button:hover {
-    color: var(--button-hover-color) var(--transition-duration);
+    color: var(--button-hover-color);
     text-decoration: var(--button-hover-text-decoration);
-    background-color: var(--button-hover-background) var(--transition-duration);
-    transition: var(--transition-duration);
+    background-color: var(--button-hover-background);
+    transition-duration: var(--transition-duration);
+    transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-family-title);
